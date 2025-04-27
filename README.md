@@ -43,7 +43,7 @@ dance-battle-app
 ## Exécution
 Pour démarrer l'application, utilisez la commande suivante:
 ```
-npm start
+npm run dev
 ```
 Cela lancera l'application dans votre navigateur par défaut à l'adresse `http://localhost:3000`.
 
